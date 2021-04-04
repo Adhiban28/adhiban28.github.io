@@ -1,5 +1,5 @@
 body{
-  background-image:linear-gradient(to top,white 70%,#464F41 10%);
+  background-image:linear-gradient(to top,white 70%,#2b2e4a 10%);
 }
 .jumbotron {
   padding: 100px 25px;
@@ -256,7 +256,7 @@ background-color: #c8dad3;
 }
 .navbar,.footer
 {
-  background-image:linear-gradient(to right,black, #ffffff);
+  background-image:linear-gradient(to right,#2b2e4a, #ffffff);
   color:white;
 }
 .row-header{
