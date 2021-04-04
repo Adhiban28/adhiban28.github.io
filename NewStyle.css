@@ -216,7 +216,7 @@ margin-top: 40px;
   }
 }
 #main, .tab-content{
-  background: linear-gradient(-45deg,#a3d2ca, #99b3ff,#e6ecff,#002080);
+  background: linear-gradient(-45deg,#ffffff, #99b3ff,#e6ecff,#002080);
   background-size: 400% 400%;
   animation: gradient 10s ease infinite;
   padding: 15px;
