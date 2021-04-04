@@ -1,5 +1,5 @@
 body{
-  background-image:linear-gradient(to top,#ffff 70%,#092532 10%);
+  background-image:linear-gradient(to top,#269f78 70%,#092532 10%);
 }
 .jumbotron {
   padding: 100px 25px;
@@ -67,7 +67,7 @@ body{
   padding: 10px;
   margin: 7px;
   transition: box-shadow 0.5s;
-  background-color: #dbf4fd;
+  background-color:#269f78;
   border-radius: 15px;
 }
 .logo-small
@@ -129,7 +129,7 @@ p{
 }
 .panel1{
   transition: box-shadow 0.7s;
-  background-image: linear-gradient(to left,#edf7fa,#ffff );
+  background-image: linear-gradient(to left,#269f78,#ffff );
   padding: 20px;
   margin-top:  60px;
   border-radius: 25px;
@@ -216,7 +216,7 @@ margin-top: 40px;
   }
 }
 #main, .tab-content{
-  background: linear-gradient(-45deg,#b3c6ff, #99b3ff,#e6ecff,#002080);
+  background: linear-gradient(-45deg,#269f78, #99b3ff,#e6ecff,#002080);
   background-size: 400% 400%;
   animation: gradient 10s ease infinite;
   padding: 15px;
@@ -256,7 +256,7 @@ background-color: #c8dad3;
 }
 .navbar,.footer
 {
-  background-image:linear-gradient(to right,black, #111d5e);
+  background-image:linear-gradient(to right,black, #269f78);
   color:white;
 }
 .row-header{
