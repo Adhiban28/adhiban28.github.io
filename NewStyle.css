@@ -256,7 +256,7 @@ background-color: #c8dad3;
 }
 .navbar,.footer
 {
-  background-image:linear-gradient(to right,#2b2e4a, #ffffff);
+  background-image:linear-gradient(to right,#2b2e4a, #1c1427);
   color:white;
 }
 .row-header{
