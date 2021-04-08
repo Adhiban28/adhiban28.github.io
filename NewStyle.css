@@ -13,9 +13,8 @@ body{
   background-size: cover;
 
 }
-.img-circle {
+.img-square {
 height: 100px;
-width:70px;
 }
 .jumbotron h3
 {
